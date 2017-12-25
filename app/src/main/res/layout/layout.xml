@@ -9,4 +9,10 @@
         android:layout_height="match_parent"
         android:text="hello"/>
 
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Zaigham"/>
+
 </LinearLayout>
